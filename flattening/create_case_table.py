@@ -47,5 +47,5 @@ case_table['DeliveryDatePassed'] = case_table['CaseKey'].apply(
     lambda case_key: 1 if case_key in late_deliveries['SalesOrderItemID'].values else 0
 )
 
-# OSpeichern der Case-Tabelle als Datei
+# Speichern der Case-Tabelle als Datei
 case_table.to_csv('Pfad zum gewünschten Speicherort/case-table.csv', index=False)  # <-- Platzhalter für den Speicherort der CSV-Datei
