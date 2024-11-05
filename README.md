@@ -1,6 +1,6 @@
 # Order-to-Cash Datensatz für die Anwendung von Case-centric und Object-centric Process Mining
-Dieses Repository enthält Python Skripte zur Generierung eines Object-centric Process Mining Datensatzes und dessen Abflachung für die Anwednung von Case-centric Process Mining.
-Der Datensatz bildet einen Order-toCash Prozess ab, welcher einen realitätsnahen Geschäftsprozess durch die Erstellung von Objekten, Events und Change Events simuliert.
+Dieses Repository enthält Python Skripte zur Generierung eines Object-centric Process Mining Datensatzes und dessen Abflachung für die Anwendung von Case-centric Process Mining.
+Der Datensatz bildet einen Order-to-Cash Prozess ab, welcher einen realitätsnahen Geschäftsprozess durch die Erstellung von Objekten, Events und Change Events simuliert.
 Diese Daten können für die Analyse mit Object-centric und Case-centruc Process Mining genutzt werden. 
 
 ## Voraussetzungen
